@@ -15,3 +15,7 @@ label {
   
 }
 
+input {
+  display: block;
+  background-color: #FF7F50;
+}
