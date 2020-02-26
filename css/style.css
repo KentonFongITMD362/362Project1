@@ -11,11 +11,17 @@ h1 {
 
 label {
   display: block;
-  color#FF7F50;
   
+  color: #FF7F50;
+  text-align: center;
 }
 
 input {
   display: block;
+  padding: 10px 10px;
+  width: 100%;
   background-color: #FF7F50;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
