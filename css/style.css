@@ -17,23 +17,30 @@ label {
 }
 
 
+
 input {
   display: block;
-  padding: 10px 10px;
-  width: 100%;
+  width: 90%;
   background-color: white;
-  
+  padding: 10px;
+  text-align: center;
 }
 input[type="text"] {
   font-size: 1em;
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+input[type="radio"] {
+  margin: 0 auto;
 }
 
 .moneyradio {
   font-size: 2em;
   display: block;
   
-  padding: 20px 20px;
-  border-style: solid;
+  
 }
 
 form {
