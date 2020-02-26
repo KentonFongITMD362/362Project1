@@ -11,12 +11,13 @@ h1 {
 
 label {
   display: block;
-  font-size: 2em;
   color: #FF7F50;
   text-align: center;
 }
 
-
+.infotext {
+  font-size: 2em;
+}
 
 input {
   display: block;
