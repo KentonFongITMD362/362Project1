@@ -61,7 +61,7 @@ form {
 
 
 
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 300px) {
   .infotext {
   font-size: 3em;
 }
