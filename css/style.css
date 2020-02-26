@@ -67,7 +67,7 @@ form {
 }
 
 .moneyradio {
-  font-size: 2em;
+  font-size: 3em;
   display: block;
   
   
@@ -76,5 +76,14 @@ form {
 }
 
 @media screen and (min-width: 900px) {
+  .infotext {
+  font-size: 2.5em;
+}
+
+.moneyradio {
+  font-size: 2.5em;
+  display: block;
   
+  
+}
 }
