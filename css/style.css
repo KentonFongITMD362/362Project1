@@ -21,15 +21,15 @@ input {
   display: block;
   padding: 10px 10px;
   width: 100%;
-  background-color: #FF7F50;
+  background-color: white;
   
 }
 input[type="text"] {
-  font-size: 2em;
+  font-size: 1em;
 }
 
 .moneyradio {
-  font-size: 3em;
+  font-size: 2em;
   display: block;
   
   padding: 20px 20px;
