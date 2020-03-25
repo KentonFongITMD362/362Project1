@@ -4,7 +4,7 @@ function Form() {
   var address = document.getElementById("address").value;
   var money = document.querySelector('input[name="money"]:checked').value;
   document.getElementById("infoform").submit();
-  //alert(fullname + email + address + money);
-  alert("testing");
+  alert(fullname + email + address + money);
+  //alert("testing");
   return true;
 }
